@@ -1,0 +1,2 @@
+START_TEXT = "Hello, %s! Add me to your chat and I'll replace all twitter.com links with vxtwitter.com :) I won't read anything, here is my source: https://github.com/scherbakovx/fix_this_tweet_link"
+HELP_TEXT = "You could reach creator at https://t.me/scherbakovx"
